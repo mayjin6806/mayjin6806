@@ -45,6 +45,7 @@ public class ForDemo {
 			}
 			System.out.println();
 		}
+		//수정 잘되니 ??
 
 	}
 
